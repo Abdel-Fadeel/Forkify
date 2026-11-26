@@ -2,7 +2,7 @@
 
 A recipe app where you search over 1,000,000 recipes, adjust servings, bookmark favourites and upload your own. Built with **vanilla JavaScript (ES2022)** using the **MVC architecture**, bundled with **Parcel**.
 
-**Live demo:** _coming soon_
+**Live demo:** [forkify-beta-coral.vercel.app](https://forkify-beta-coral.vercel.app)
 
 ## Features
 
