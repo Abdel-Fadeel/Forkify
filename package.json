@@ -1,21 +1,21 @@
 {
-  "name": "starter",
+  "name": "forkify",
   "version": "1.0.0",
-  "description": "Recipe App",
+  "description": "Forkify - search, bookmark and upload recipes",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AbdAlfadeel-Hamdy/Forkify.git"
+    "url": "git+https://github.com/Abdel-Fadeel/Forkify.git"
   },
-  "author": "",
+  "author": "Abdel-Fadeel Hamdy",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AbdAlfadeel-Hamdy/Forkify/issues"
+    "url": "https://github.com/Abdel-Fadeel/Forkify/issues"
   },
-  "homepage": "https://github.com/AbdAlfadeel-Hamdy/Forkify#readme",
+  "homepage": "https://github.com/Abdel-Fadeel/Forkify#readme",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.2",
     "parcel": "^2.6.2",
